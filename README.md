@@ -11,6 +11,8 @@ Understand booking outcomes (completed, cancelled, incomplete)
 Identify top pickup and drop locations
 Evaluate driver and customer satisfaction ratings
 
+
+
 📊 Key Metrics
 
 Total Revenue: 9M
@@ -19,6 +21,8 @@ Highest Trip Distance: 50 km
 Completed Rides: 17K
 Cancelled Rides: 7K
 Incomplete Rides: 4K
+
+
 
 📈 Dashboard Features
 
@@ -47,6 +51,8 @@ Top Drop Location: Narsinghpur (126 rides)
 Driver Rating: 4.23 ⭐
 Customer Rating: 4.41 ⭐
 
+
+
 🛠 Tools & Technologies
 
 Power BI Desktop
@@ -54,11 +60,15 @@ DAX for calculated measures
 Data Modeling & Visualization
 Interactive slicers (Month / Quarter)
 
+
+
 📂 Dataset
 
 Simulated Uber ride booking data
 Includes booking status, vehicle type, trip distance, revenue, location, and ratings
 (Dataset used for learning and portfolio purposes)
+
+
 
 📌 Insights Gained
 
@@ -67,12 +77,16 @@ Cancellations form a significant portion, indicating optimization opportunities
 Demand peaks during mid-year months
 High customer and driver ratings indicate strong service quality
 
+
+
 🚀 How to Use
 
 Download the .pbix file
 Open in Power BI Desktop
 Use slicers to explore monthly and quarterly trends
 Hover over visuals for detailed insights
+
+
 
 📬 Contact
 
