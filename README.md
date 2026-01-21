@@ -3,8 +3,9 @@
 📌 Project Overview
 
 This Power BI dashboard provides an interactive analysis of Uber ride bookings, revenue, trip performance, and customer/driver insights. 
-
 It helps stakeholders understand booking trends, ride completion status, vehicle performance, and regional demand patterns for better operational and business decisions.
+
+
 
 
 
