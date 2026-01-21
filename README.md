@@ -7,6 +7,7 @@ This Power BI dashboard provides an interactive analysis of Uber ride bookings, 
 It helps stakeholders understand booking trends, ride completion status, vehicle performance, and regional demand patterns for better operational and business decisions.
 
 
+
 🎯 Objectives
 
 - Analyze overall ride performance and booking trends
@@ -18,6 +19,8 @@ It helps stakeholders understand booking trends, ride completion status, vehicle
 - Identify top pickup and drop locations
   
 - Evaluate driver and customer satisfaction ratings
+
+
 
 
 
@@ -37,7 +40,10 @@ Incomplete Rides: 4K
 
 
 
+
+
 📈 Dashboard Features
+
 
 
 1️⃣ Booking Trends
@@ -45,6 +51,7 @@ Incomplete Rides: 4K
 Monthly and quarterly booking analysis
 
 Visualizes fluctuations in ride demand across the year
+
 
 
 2️⃣ Booking Status Overview
@@ -61,11 +68,15 @@ Donut chart showing:
   
 - Incomplete rides
 
+
+
 3️⃣ Vehicle Type Analysis
 
 - Pickup distribution by vehicle type
   
 - Focused on 4-Seated Cab performance
+
+
 
 4️⃣ Location Insights
 
@@ -73,11 +84,15 @@ Donut chart showing:
   
 - Top Drop Location: Narsinghpur (126 rides)
 
+
+
 5️⃣ Ratings & Experience
 
 - Driver Rating: 4.23 ⭐
   
 - Customer Rating: 4.41 ⭐
+
+
 
 
 
@@ -93,6 +108,8 @@ Donut chart showing:
 
 
 
+
+
 📂 Dataset
 
 Simulated Uber ride booking data
@@ -100,6 +117,8 @@ Simulated Uber ride booking data
 Includes booking status, vehicle type, trip distance, revenue, location, and ratings
 
 (Dataset used for learning and portfolio purposes)
+
+
 
 
 
@@ -115,6 +134,8 @@ Includes booking status, vehicle type, trip distance, revenue, location, and rat
 
 
 
+
+
 🚀 How to Use
 
 - Download the .pbix file
@@ -124,6 +145,8 @@ Includes booking status, vehicle type, trip distance, revenue, location, and rat
 - Use slicers to explore monthly and quarterly trends
   
 - Hover over visuals for detailed insights
+
+
 
 
 
